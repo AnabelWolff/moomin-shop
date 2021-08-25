@@ -1,0 +1,127 @@
+.cart__font {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.cart__bg {
+    background-image: url("../../Assets/img-page/mooming-img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 960px;
+    height: 600px;
+    align-items: center;
+}
+
+.cart__img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+.cart__title {
+    color: rgb(47, 33, 33);
+    font-size: 4rem;
+    font-weight: 500;
+    font-family: tmoomin;
+    line-height: 5rem;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.cart__button {
+    border-radius: 2rem;
+    color: whitesmoke;
+    height: 3rem;
+    letter-spacing: 0.1rem;
+    width: 10rem;
+}
+
+.cart__subtitle {
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem;
+    font-family: ttmoomin;
+}
+
+.cart__row-div {
+    min-height: 100vh;
+}
+
+.cart__row {
+    background: #fff;
+    border-radius: 1rem;
+    margin: 1rem 4rem;
+}
+
+.cart__row-img {
+    height: 12rem;
+    margin-left: 3rem;
+}
+
+.cart__row-items {
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.cart__row-button {
+    display: flex;
+    align-items: center;
+}
+
+    @media screen and (max-width: 576px) {
+        .cart__title {
+        font-size: 1.6rem;
+        }
+    
+        .cart__font {
+        background-image: url("../../Assets/img-page/cartpay.svg");
+        background-size: cover;
+        }
+    
+        p {
+        text-align: center;
+        }
+    
+        .cart__row-button {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 2rem;
+        width: 100%;
+        }
+    
+        .cart__row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        margin: 1rem auto;
+        }
+    
+        .cart__row-items {
+        font-size: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        line-height: 1rem;
+        }
+    
+        .cart__row-img {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        }
+    
+        .cart__row-button {
+        margin-bottom: 1rem;
+        }
+    }

@@ -1,0 +1,17 @@
+.cart {
+    color: whitesmoke;
+    font-size: 2.5rem;
+    margin-left: 0.5rem;
+    padding: 0 0.3rem;
+    margin-bottom: 0.5rem;
+}
+
+.cart:hover {
+    color: #f5cac3;
+}
+
+.cart__total {
+    color: #81d4c0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}

@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "type": "FireSpiritArabia",
+        "title": "Moomin El espíritu del fuego - Arabia",
+        "price": 2500,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/fire-spirit-arabia.jpg",
+        "description": "El siniestro Snufkin y el espíritu del fuego es una ilustración mágica en la taza. Cuenta con personajes familiares que caminan sobre zancos: Moomintroll, Snufkin, Snorkmaiden y Sniff. ¡Un regalo perfecto para cualquier fan de Moomin! "
+    },
+    {
+        "id": 2,
+        "type": "MoominTrollArabia",
+        "title": "Moomin - Moomintroll - Arabia",
+        "price": 2500,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/MoomintrollArabia.jpg",
+        "description": "Una nueva taza verde de Moomintroll que presenta a Moomintroll en un cómic llamado Moomin and the Martians (1957) . La serie de personajes incluye una taza, un cuenco y un plato. Un euro de las tazas de Moomintroll vendidas en 2019 se donará a las actividades locales de Save the Children en todos los países donde se venden las tazas."
+    },
+    {
+        "id": 3,
+        "type": "MoominFielOrigenesArabia",
+        "title": "Moomin Fiel a sus orígenes - Duerme bien - Arabia",
+        "price": 2500,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/moominfiel.jpg",
+        "description": "La taza es parte de la serie, Fiel a sus orígenes, y está basada en la última novela de Moomin de Tove Jansson, Moominpappa en el mar.  El estilo de las imágenes demuestra la habilidad excepcional de Tove Jansson para expresar su estado de ánimo y sus emociones más profundas con dibujos sencillos."
+    },
+    {
+        "id": 4,
+        "type": "MoominTogetherVerano",
+        "title": "Moomin Together Verano 2021 - Arabia",
+        "price": 2500,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/togethermug.jpg",
+        "description": "La taza de temporada para el verano de 2021 continúa la aventura de verano de los Moomin, donde la familia Moomin hace una visita a la Riviera francesa. Las  ilustraciones muestran a Moominpappa pasando sus días jugando al solitario, Moominmamma haciendo crepes y Snorkmaiden inmerso en su libro. El último set de verano de temporada de Arabia continúa las aventuras de la familia Moomin en la playa. El set para el verano de 2021, titulado Together, está basado en el cómic “Moomin on the Riviera” de Tove Jansson (edición en inglés publicada en 1955). El juego consta de taza, plato y cucharas. Solo hecho como un conjunto limitado."
+    },
+    {
+        "id": 5,
+        "type": "SnorkmaidenMuurla",
+        "title": "Snorkmaiden 3,7 dl - Muurla",
+        "price": 2000,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/Snorkmaidenmug.jpg",
+        "description": "Taza rosa claro con Snorkmaiden. Extremadamente duradero y fácil de cuidar, lo que lo hace perfecto para su hogar. Disfrute de su descanso para tomar café con Moomin. Muurla combina diseño con durabilidad en esta taza de esmalte retro."
+    },
+    {
+        "id": 6,
+        "type": "MoominHugBlanco",
+        "title": "Moomin Hug 2,5dl blanco - Muurla",
+        "price": 2000,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/moominhug.jpg",
+        "description": "Esta taza esmaltada presenta a Moomintroll y Snorkmaiden abrazados en una taza esmaltada de 2,5 dl. Durable y fácil de cuidar, la taza es perfecta para tu hogar. Muurla combina diseño con durabilidad en esta taza de esmalte retro."
+    },
+    {
+        "id": 7,
+        "type": "MoominDateNight",
+        "title": "Moomin Date Night 3,7 dl - Muurla",
+        "price": 2000,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/moomindate.jpg",
+        "description": "Hermosa taza blanca de Moomin con Moominmamma y Moominpappa en una cita. Muurla combina diseño y durabilidad en esta hermosa taza de esmalte Moomin. Son adecuados no solo para colocar mesas tradicionales, sino también para cualquier tipo de uso al aire libre, como senderismo, cabañas y barcos. ¡Anima tus momentos de café y té! Volumen 3.7dl. Lavable en la lavadora."
+    },
+    {
+        "id": 8,
+        "type": "MoominVasoTermicoVerde",
+        "title": "Vaso térmico Moomin 0,4 l verde - Stelton",
+        "price": 3500,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/vaso-termico1.jpg",
+        "description": "Taza térmica Moomin To-Go Click de color verde polvoriento con un cuerpo de acero completo con aspiradora, lo que garantiza que su bebida favorita se mantenga caliente o fría durante horas, tiempo suficiente para explorar un poco. Material: acero inoxidable, BPA y plástico sin ftalatos. Tamaño: 8,3  x 17 cm. Volyme:  0,4l. "
+    },
+    {
+        "id": 9,
+        "type": "MoominVasoTermicoGris",
+        "title": "Vaso térmico Moomin 0,4 l gris - Stelton",
+        "price": 3500,
+        "stock": 200,
+        "categoryId": "mugs",
+        "imageId": "../.././Images/vaso-termico2.jpg",
+        "description": "Taza térmica Moomin To-Go Click de color gris claro suave, con una ilustración de Moomintroll y Moominmamma abrazándose. La taza tiene un cuerpo de acero completo con aspiradora, lo que garantiza que su bebida favorita se mantenga caliente o fría durante horas, tiempo suficiente para explorar un poco. Material: acero inoxidable, BPA y plástico sin ftalatos. Tamaño: 8,3  x 17 cm. Volyme:  0,4l."
+    },
+    {
+        "id": 10,
+        "type": "MoominBotellaV",
+        "title": "Botella Moomin 0,75 l verde - Stelton",
+        "price": 3500,
+        "stock": 200,
+        "categoryId": "mas-vendidos",
+        "imageId": "../.././Images/botella2.jpg",
+        "description": "Precioso botellon Moomin en color verde con diferentes personajes Moomin. Ya sea que prefiera agua, jugo, té helado o refrescos cuando está en movimiento, la botella para beber Moomin es perfecta para mantener fría su bebida favorita y evitará que compre botellas de agua de un solo uso. La botella para beber Moomin está hecha de acero inoxidable de alta calidad, que se puede rellenar una y otra vez, y tiene una capacidad de 0,75 l."
+    },
+    {
+        "id": 11,
+        "type": "MoominBotellaG",
+        "title": "Botella Moomin 0,75 l gris claro suave - Stelton",
+        "price": 3500,
+        "stock": 200,
+        "categoryId": "mas-vendidos",
+        "imageId": "../.././Images/botella1.jpg",
+        "description": "Hermosa botella para beber Moomin en suave color gris claro, con una ilustración de Moomintroll y Moominmamma abrazándose. Ya sea que prefiera agua, jugo, té helado o refrescos cuando está en movimiento, la botella para beber Moomin es perfecta para mantener fría su bebida favorita y evitará que compre botellas de agua de un solo uso. La botella para beber Moomin está hecha de acero inoxidable de alta calidad, que se puede rellenar una y otra vez, y tiene una capacidad de 0,75 l. "
+    },
+    {
+        "id": 12,
+        "type": "MoominPlatoTogether",
+        "title": "Plato Moomin Together Verano 2021 - Arabia",
+        "price": 2000,
+        "stock": 200,
+        "categoryId": "mas-vendidos",
+        "imageId": "../.././Images/plate.jpg",
+        "description": "El plato de temporada para el verano de 2021 continúa la aventura de verano de los Moomin, donde la familia Moomin hace una visita a la Riviera francesa. Las  ilustraciones del plato muestran a Moominpappa pasando sus días jugando al solitario, Moominmamma haciendo crepes y Snorkmaiden inmerso en su libro. El último set de verano de temporada de Arabia continúa las aventuras de la familia Moomin en la playa. El set para el verano de 2021, titulado Together, está basado en el cómic “Moomin on the Riviera” de Tove Jansson (edición en inglés publicada en 1955). El juego consta de taza, plato y cucharas. Solo hecho como un conjunto limitado."
+    },
+    {
+        "id": 13,
+        "type": "MoominCuchara1",
+        "title": "Moominpappa Cuchara Together Verano 2021 - Hackman",
+        "price": 1500,
+        "stock": 200,
+        "categoryId": "mas-vendidos",
+        "imageId": "../.././Images/spoon2.jpg",
+        "description": "La cuchara de temporada para el verano de 2021 continúa la aventura de verano de los Moomin, donde la familia Moomin hace una visita a la Riviera francesa. En la ilustración de la cuchara, Moominpappa está jugando al solitario en una silla de playa. El último set de verano de temporada de Arabia continúa las aventuras de la familia Moomin en la playa. El set para el verano de 2021, titulado Together, está basado en el cómic “Moomin on the Riviera” de Tove Jansson (edición en inglés publicada en 1955). El juego consta de taza, plato y cucharas. Solo hecho como un conjunto limitado."
+    },
+    {
+        "id": 14,
+        "type": "MoominCuchara2",
+        "title": "Snorkmaiden Cuchara Together Verano 2021 - Hackman",
+        "price": 1500,
+        "stock": 200,
+        "categoryId": "mas-vendidos",
+        "imageId": "../.././Images/spoon1.jpg",
+        "description": "La cuchara de temporada para el verano de 2021 continúa la aventura de verano de los Moomin, donde la familia Moomin hace una visita a la Riviera francesa. En la ilustración de la cuchara, Snorkmaiden está tumbada en la playa, sumergida en su libro. El último set de verano de temporada de Arabia continúa las aventuras de la familia Moomin en la playa. El set para el verano de 2021, titulado Together, está basado en el cómic “Moomin on the Riviera” de Tove Jansson (edición en inglés publicada en 1955). El juego consta de taza, plato y cucharas. Solo hecho como un conjunto limitado. Material: acero inoxidable 18/10. Tamaño: largo 23 cm. Apto para lavavajillas."
+    },
+    {
+        "id": 15,
+        "type": "MoominTe1",
+        "title": "Snorkmaiden Rooibos Lata de té “Red Berries” - Teministeriet",
+        "price": 1300,
+        "stock": 200,
+        "categoryId": "mas-vendidos",
+        "imageId": "../.././Images/MoominTe1.jpg",
+        "description": "Té rooibos suelto Moomin de Teministeriet en una hermosa caja de hojalata reutilizable. 100 gramos. Moomin Rooibos Red Berries es un delicioso té rooibos con grosellas, papaya y las conocidas bayas escandinavas: fresa y frambuesa. Esta mezcla no contiene cafeína."
+    },
+    {
+        "id": 16,
+        "type": "MoominTe2",
+        "title": "Lata de té verde Moomintroll “Chokeberries” - Teministeriet",
+        "price": 1300,
+        "stock": 200,
+        "categoryId": "mas-vendidos",
+        "imageId": "../.././Images/MoominTe2.jpg",
+        "description": "Mezcla de té verde suelto Moomin de Teministeriet en una elegante caja de lata reutilizable. 100 gramos. Green Tea Chokeberries es una fantástica mezcla verde, cargada de ingredientes naturales, rico aroma y sabor. Con limoncillo, chokeberry, bayas de goji, piel de espino amarillo e higos."
+    },
+    {
+        "id": 17,
+        "type": "MoominTe3",
+        "title": "Lata de té verde Moomintroll “Arándano” - Teministeriet",
+        "price": 1300,
+        "stock": 200,
+        "categoryId": "mas-vendidos",
+        "imageId": "../.././Images/MoominTe3.jpg",
+        "description": "Mezcla de té verde suelto Moomin de Teministeriet en una hermosa caja de lata reutilizable. 100 gramos. Cargado con ingredientes naturales, rico aroma y sabor. Con grosellas, arándanos, aciano, girasol y pétalos de rosa. Cada sorbo es una pequeña aventura en Moominvalley."
+    },
+    {
+        "id": 18,
+        "type": "MoominCafe1",
+        "title": "Verano de Arandanos Moomin Cafe - Paulig",
+        "price": 1500,
+        "stock": 200,
+        "categoryId": "cafe",
+        "imageId": "../.././Images/MoominCafe1.jpg",
+        "description": "Una combinación exótica de arándanos finlandeses y café. Regusto suave, mezcla media. Ingredientes: café, arándano seco (3%), aroma.Se mantiene fresco mejor en un lugar fresco y seco. Peso: 200 g"
+    },
+    {
+        "id": 19,
+        "type": "MoominCafe2",
+        "title": "Primavera de chocolate con menta Moomin Cafe - Paulig",
+        "price": 1500,
+        "stock": 200,
+        "categoryId": "cafe",
+        "imageId": "../.././Images/MoominCafe2.jpg",
+        "description": "Café molido de tueste medio, elaborado con los mejores granos de café seleccionados de Sudamérica y Asia con sabor a chocolate con menta. Muy adecuado como café de postre. Se mantiene fresco mejor en un lugar fresco y seco. Peso: 200 g"
+    },
+    {
+        "id": 20,
+        "type": "MoominCafe3",
+        "title": "Moomin Coffee tostado medio Otoño - Paulig",
+        "price": 1500,
+        "stock": 200,
+        "categoryId": "cafe",
+        "imageId": "../.././Images/MoominCafe3.jpg",
+        "description": "Una sabrosa mezcla de café tostado medio. Este café molido de tostado medio está hecho de selecciones de granos de café de América del Sur y Asia seleccionados, que resaltan muchos sabores de café. Se mantiene fresco mejor en un lugar fresco y seco. Peso: 200 g"
+    },
+    {
+        "id": 21,
+        "type": "MoominCafe4",
+        "title": "Moomin Coffee tostado oscuro Winter - Paulig",
+        "price": 1500,
+        "stock": 200,
+        "categoryId": "cafe",
+        "imageId": "../.././Images/MoominCafe4.jpg",
+        "description": "Un café molido tostado oscuro y profundo, como le gusta a Moominpappa. Tostado con lo mejor de los granos de café de América del Sur y Asia, un café suave y con cuerpo, adecuado para todos los amantes del café oscuro para todos los momentos del café. Sabor tostado con cuerpo. Se mantiene fresco mejor en un lugar fresco y seco. Peso: 200 g"
+    }
+    
+]

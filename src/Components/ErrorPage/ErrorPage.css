@@ -1,0 +1,45 @@
+.error__container {
+    background-size: contain;
+    min-height: 80vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.error__btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.error__button {
+    margin: 1rem;
+    border-radius: 2rem;
+    color: whitesmoke;
+    font-size: 1rem;
+    height: 3rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    width: 12rem;
+}
+
+.imgError {
+    background-image: url("../../Assets/img-page/error-page.png");
+    width: 560px;
+    height: 495px;
+    background-repeat: no-repeat;
+    align-self: center;
+}
+
+@media screen and (max-width: 576px) {
+    .error__title {
+        font-size: 1.5rem;
+    }
+
+    .error__container {
+        background-image: url("../../Assets/img-page/error-page-mq.png");
+        background-size: auto;
+
+    }
+}

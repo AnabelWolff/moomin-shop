@@ -1,0 +1,43 @@
+.footer {
+    background: rgb(53, 52, 50);
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: ttmoomin;
+    height: 12rem;
+    padding: 1.3rem 0;
+    text-align: center;
+}
+
+.footer__title {
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.footer__button {
+    color: #e89f94;
+    font-size: 1.4rem;
+    height: 3.2rem;
+    width: 3.2rem;
+    background: #171515;
+    border-radius: 50%;
+    margin: 0 0.5rem;
+    cursor: pointer;
+}
+
+.footer__button:hover {
+    font-size: 1.8rem;
+    background: rgb(27, 27, 27);
+    transition: 0.4s;
+}
+
+.footer__button i {
+    color: #e89f94;
+}
+
+.footer__credit {
+    font-weight: initial;
+    color: #f7ede2;
+    font-family: tmoomin;
+    letter-spacing: 0.2rem;
+
+}

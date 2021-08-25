@@ -1,0 +1,21 @@
+.itemList-title {
+    font-size: 2rem;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    margin: 1rem 0;
+}
+
+.itemsContainer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 576px) {
+    .itemList-title {
+        font-size: 1.5rem;
+    }
+}

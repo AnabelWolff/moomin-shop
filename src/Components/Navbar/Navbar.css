@@ -1,0 +1,115 @@
+@font-face{
+    font-family: tmoomin;
+    src: url("../../Assets/fonts/MoominFont.otf");
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: ttmoomin;
+    src: url("../../Assets/fonts/FontsFree-Net-Cocogoose-Classic-Medium-trial.ttf");
+    font-weight: normal;
+}
+
+#root,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+body {
+  background: rgb(236, 228, 217);
+}
+
+header {
+  background: #161615;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu {
+  margin: 0 1.8rem 0 0;
+  padding: 0.5rem 0.25rem;
+}
+
+.menu__label {
+  color: white;
+  cursor: pointer;
+  font-size: 2.2rem;
+  font-weight: bold;
+  padding: 1rem 0rem 1rem 6rem;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.menu__label:hover {
+  color: rgb(219, 189, 150);
+  text-decoration: none;
+}
+
+.menu__options {
+  font-size: 1.3rem;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  padding: 0 0.8rem;
+  font-weight: normal;
+}
+
+.menu__options:hover {
+    color: #f5cac3;
+    text-decoration-line: none;
+}
+
+header .menu__options.cartOn, header .menu__options.active {
+    border-bottom: 0.2rem solid #f5cac3;
+    color: #fff;
+    font-weight: 500;
+}
+
+.cartOn {
+    font-size: 1.5rem;
+}
+
+.menu__container {
+    position: sticky;
+    top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    z-index: 1000;
+}
+
+.menu__container > a {
+  font-family: tmoomin;
+  font-weight: bold;
+  margin-left: 2rem;
+  font-size: 2.5rem;
+  color: #f5cac3;
+}
+
+.menu__container > a:hover {
+  text-decoration: none;
+  color: #f7ab9f;
+}
+
+
+@media screen and (max-width: 576px) {
+    header {
+        justify-content: center;
+    }
+
+    .menu {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .menu__label {
+        padding: 0.5rem 0rem;
+    }
+
+    .menu__options {
+        font-size: 1rem;
+        padding: 0 0.4rem;
+    }
+}
