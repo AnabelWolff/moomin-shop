@@ -8,8 +8,10 @@
 .item-card {
     border-radius: 1rem;
     margin-bottom: 1.5rem;
+    min-height: 530px;
     padding: 1rem;
     text-align: center;
+    box-shadow: 2px 4px 2px 1px #a1716a;
 }
 
 .item-img {

@@ -12,11 +12,11 @@ const ItemList = ({ items }) => {
             <Header />
             <p className={"itemList-title"}> Catalogo de productos</p>
             <div className="itemsContainer">
-            {items.map((item, id) => (
-                <div key={id}>
-                <Item item={item} />
-                </div>
-            ))}
+                {items.map((item, id) => (
+                    <div key={id}>
+                    <Item item={item} />
+                    </div>
+                ))}
             </div>
         </div>
         );
@@ -25,7 +25,7 @@ const ItemList = ({ items }) => {
         <div style={{ minHeight: "100vh" }}>
             <Header />
             <h2 className={"itemList-title"}>{categoryId}</h2>
-            <div className="itemsContainer">
+            <div className="itemsContainer ">
             {items
                 .filter((item) => item.categoryId === categoryId)
                 .map((item, id) => (

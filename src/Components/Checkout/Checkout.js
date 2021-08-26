@@ -6,7 +6,7 @@ import { Form, Button, Table, InputGroup } from "react-bootstrap";
 import { getFirestore } from "../../firebase";
 import firebase from "firebase/app";
 import "firebase/firestore";
-import { FcPaid } from "react-icons/fc";
+import { FaShoppingBasket } from "react-icons/fa";
 
 const Checkout = () => {
     const cartItems = useContext(CartContext);
@@ -81,7 +81,7 @@ const Checkout = () => {
                         <p className={"checkout__card-title"}>Operación Exitosa</p>
                         <p className={"checkout__card-code"}>Código de compra:</p>
                         {idOrder && <b className={"checkout__card-order"}>{idOrder}</b>}
-                        <FcPaid className={"checkout__card-icon"} />
+                        <FaShoppingBasket className={"checkout__card-icon"} />
                         <p className={"checkout__card-code"}>
                             ¡Gracias por comprar en Moomin Shop!
                         </p>

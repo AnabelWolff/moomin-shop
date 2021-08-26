@@ -1,6 +1,6 @@
 .itemList-title {
     font-size: 2rem;
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: tmoomin;
     text-align: center;
     letter-spacing: 0.1rem;
     text-transform: uppercase;
@@ -8,10 +8,23 @@
 }
 
 .itemsContainer {
+    background-image: url(../../Assets/img-page/pattern2.jpg);
     display: flex;
+    padding-top: 2rem;
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
+}
+
+.itemsContainer .btn {
+    background-color: #84a59d;
+    color: #fff;
+    font-weight: bold;
+    border-color: #457c6e;
+}
+
+.itemsContainer .btn:hover {
+    background-color: #457c6e;
 }
 
 @media screen and (max-width: 576px) {
