@@ -1,3 +1,26 @@
+## **Moomin-Shop** :fi:
+
+Hola!:wave: Soy Anabel y este es mi proyecto de React.
+La idea fue crear un e-commerce de los Moomin. Para quien no conozca, son unos personajes creado por Tove Jansson. Fue una gran escritora, ilustradora, historietista y pintora finlandesa.
+Su obra es reconocida en gran parte del mundo. Y dado que amo la cultura finlandesa, me atreví a incluirlos en mi camino de la programación.
+
+
+### **Demo**
+![Demo](/preview/MoominShop-React.gif)
+
+
+### **Utilidades**
+
+- React 17.0.2
+- Firebase 7.2.3
+- React Icons 4.2.0
+- Bootstrap 5.0.1
+- React Bootstrap 1.6.1
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
